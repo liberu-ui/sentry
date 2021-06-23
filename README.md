@@ -1,4 +1,4 @@
-# QuickView
+# Sentry
 
 ![npm license](https://img.shields.io/npm/l/@enso-ui/quick-view.svg) 
 ![npm download](https://img.shields.io/npm/dm/@enso-ui/quick-view.svg) 
@@ -10,7 +10,7 @@ Quickview
 
 ## Usage
 
-This package contains a QuickView component within the Enso ecosystem.
+This facilitates Sentry error reporting with throttling ability.
 
 For live examples and demos, you may visit [laravel-enso.com](https://www.laravel-enso.com)
 
