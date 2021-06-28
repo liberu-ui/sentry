@@ -1,7 +1,13 @@
+const ignored = ['ChunkLoadError'];
 const errors = [];
 
 const reportable = event => {
     const [{ type, value }] = event.exception.values;
+
+    if (ignored.includes(type)) {
+        return null;
+    }
+
     const key = `${type}:${value}`;
 
     if (errors.includes(key)) {
