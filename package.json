@@ -2,7 +2,7 @@
   "name": "@enso-ui/sentry",
   "version": "1.0.2",
   "description": "Sentry",
-  "main": "index.js",
+  "main": "src/reportable.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
