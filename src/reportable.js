@@ -1,4 +1,4 @@
-const ignored = ['ChunkLoadError'];
+const ignored = ['ChunkLoadError', 'UnhandledRejection'];
 const errors = [];
 
 const reportable = event => {
