@@ -13,7 +13,7 @@ const reportable = event => {
     if (errors.includes(key)) {
         return null;
     }
-    
+
     errors.push(key);
 
     setTimeout(() => {

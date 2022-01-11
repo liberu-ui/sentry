@@ -1,6 +1,6 @@
 {
   "name": "@enso-ui/sentry",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Sentry",
   "main": "src/reportable.js",
   "scripts": {
@@ -23,8 +23,14 @@
   "homepage": "https://github.com/@enso-ui/sentry#readme",
   "dependencies": {},
   "devDependencies": {
-    "@babel/plugin-syntax-dynamic-import": "^7.2.0",
-    "eslint": "^6.8.0",
-    "eslint-plugin-vue": "^7.0.0-beta.4"
+    "@vue/cli-plugin-babel": "5.0.0-beta.6",
+    "@vue/cli-plugin-eslint": "5.0.0-beta.6",
+    "@vue/eslint-config-airbnb": "^5.0.0",
+    "autoprefixer": "^9.6.1",
+    "babel-eslint": "^10.0.1",
+    "cross-env": "^6.0.0",
+    "eslint": "^7.0.0",
+    "eslint-import-resolver-alias": "^1.1.2",
+    "eslint-plugin-vue": "^8.0.0"
   }
 }
