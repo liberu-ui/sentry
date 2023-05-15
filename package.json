@@ -1,5 +1,5 @@
 {
-  "name": "@cgdsoftware/sentry",
+  "name": "@liberu-ui/sentry",
   "version": "1.0.9",
   "description": "Sentry",
   "main": "src/reportable.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/@cgdsoftware/sentry.git"
+    "url": "git+https://github.com/@liberu-ui/sentry.git"
   },
   "keywords": [
     "enso",
@@ -18,9 +18,9 @@
   "author": "Adrian Ocneanu <aocneanu@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/@cgdsoftware/sentry/issues"
+    "url": "https://github.com/@liberu-ui/sentry/issues"
   },
-  "homepage": "https://github.com/@cgdsoftware/sentry#readme",
+  "homepage": "https://github.com/@liberu-ui/sentry#readme",
   "dependencies": {},
   "devDependencies": {
     "@vue/cli-plugin-babel": "5.0.0-beta.6",

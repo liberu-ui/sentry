@@ -22,7 +22,7 @@ Be sure to check out the full documentation for this package available at [docs.
 
 are welcome. Pull requests are great, but issues are good too.
 
-Thank you to all the people who already contributed to Enso!
+Thank you to all the people who already contributed to Liberu!
 
 ## License
 
