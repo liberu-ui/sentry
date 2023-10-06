@@ -1,6 +1,6 @@
 {
   "name": "@liberu-ui/sentry",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "description": "Sentry",
   "main": "src/reportable.js",
   "scripts": {
