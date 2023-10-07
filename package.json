@@ -2,7 +2,7 @@
   "name": "@liberu-ui/sentry",
   "version": "1.0.17",
   "description": "Sentry",
-  "main": "src/reportable.js",
+  "main": "src/reportable.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
